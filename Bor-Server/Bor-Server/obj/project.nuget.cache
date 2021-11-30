@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tglp16NvQLslP34Wb5eKcnm7u5/+X2VrxCn9f6qBsc5RzSgfb8Ff3f8oKuB44RznxGKQ7d2PD76yUujbyqR/MA==",
+  "dgSpecHash": "JNT4jzBmqGWPZb8KScEpdz8TqzG2ZgeLfaC1+HduZvg1DDz723n6zF3FhQzSDUiUER/Gad6O9WfJGqOlx74vFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\StudentDev\\Desktop\\Bor_Server-main\\Bor-Server\\Bor-Server\\Bor-Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\StudentDev\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\StudentDev\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
